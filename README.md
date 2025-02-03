@@ -4,8 +4,9 @@
 </p>
 
 
-<h1 align="center">🚀 Seja Bem-Vindo! 🚀</h1>
-<h3 align="center">💡 Entusiasta de IA, Cloud e Back-End</h3>
+<h3 align="center">💡 Com foco em desenvolvimento FullStack. Atualmente, venho me dedicando ao conhecimento de tecnologias emergentes como Inteligência Artificial e Computação em Nuvem. 
+Sou movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças que naturalmente me levam a aprender cada vez mais.
+</h3>
 
 ---
 
@@ -35,7 +36,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50"/>
 </div>
