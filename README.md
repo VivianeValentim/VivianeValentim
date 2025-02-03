@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="(https://pa1.aminoapps.com/6739/1d8b8986795521b4b2ca7086c038eb6c5c94db4f_hq.gif)">
+  <img src="([https://pa1.aminoapps.com/6739/1d8b8986795521b4b2ca7086c038eb6c5c94db4f_hq.gif](https://pa1.aminoapps.com/6739/1d8b8986795521b4b2ca7086c038eb6c5c94db4f_hq.gif))">
 </p>
 
 
