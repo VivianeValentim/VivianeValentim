@@ -7,9 +7,7 @@ Sou movida a curiosidade e desejo por aprender, adentrei a área Tech admirando 
 </h2>
 
 ---
-
-## 📊 Minhas Estatísticas no GitHub  
-
+ 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivianeValentim&show_icons=true&theme=dracula" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeValentim&layout=compact&theme=dracula" />
