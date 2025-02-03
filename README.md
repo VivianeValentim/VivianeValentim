@@ -1,7 +1,6 @@
-
-<p align="center">
-  <img src="([https://pa1.aminoapps.com/6739/1d8b8986795521b4b2ca7086c038eb6c5c94db4f_hq.gif](https://pa1.aminoapps.com/6739/1d8b8986795521b4b2ca7086c038eb6c5c94db4f_hq.gif))">
-</p>
+<div align="center">
+  <img src="https://pa1.aminoapps.com/6767/a1085659e2e6ceb416caa9f5297d33cb4921a4eb_hq.gif" alt="kawaii-cat-cheerful-dance">
+</div>
 
 
 <h3 align="center">💡 Com foco em desenvolvimento FullStack. Atualmente, venho me dedicando ao conhecimento de tecnologias emergentes como Inteligência Artificial e Computação em Nuvem. 
