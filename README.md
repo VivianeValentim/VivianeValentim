@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="[https://github.com/seu-usuario/seu-usuario/raw/main/banner.png](https://pa1.aminoapps.com/6739/1d8b8986795521b4b2ca7086c038eb6c5c94db4f_hq.gif)" alt="Bem-vindo ao meu GitHub">
+  <img src="(https://pa1.aminoapps.com/6739/1d8b8986795521b4b2ca7086c038eb6c5c94db4f_hq.gif)">
 </p>
 
 
