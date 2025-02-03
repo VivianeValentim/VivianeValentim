@@ -9,3 +9,4 @@
 
 ![Estatística do GitHub](https://github-redme-stats.vercel.app/api?username=VivianeValentim&show_icons=true&theme=dracula)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeValentim&layout=compact&theme=dracula)
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/0cf" />
