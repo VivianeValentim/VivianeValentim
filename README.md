@@ -5,7 +5,7 @@
 <p align="center" style="font-size:25px;">💡 Movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças frequentes que naturalmente me levam a aprender cada vez mais.
 </p>
 
-<p align="center" style="font-size:35px;">💡 Movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças frequentes que naturalmente me levam a aprender cada vez mais.  
+<p align="center" style="font-size:65px;">💡 Movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças frequentes que naturalmente me levam a aprender cada vez mais.  
 </p>
 
 
