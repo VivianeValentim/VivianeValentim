@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://t3.ftcdn.net/jpg/09/15/49/22/360_F_915492249_MqxAcgdGVq5eUBSb8RHmwwXiO9jDpqYO.jpg" width="700" width="500"/>
+  <img src="https://t3.ftcdn.net/jpg/09/15/49/22/360_F_915492249_MqxAcgdGVq5eUBSb8RHmwwXiO9jDpqYO.jpg" width="700" height="300"/>
 </div>
 
 <h2 align="center">💡 Com foco em desenvolvimento FullStack. Atualmente, venho me dedicando ao conhecimento de tecnologias emergentes como Inteligência Artificial e Computação em Nuvem. 
