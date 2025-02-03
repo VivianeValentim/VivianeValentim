@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://img.freepik.com/vetores-premium/ilustracao-em-vetor-de-banner-de-boas-vindas-de-tema-de-8-bits-de-pixels_671488-26.jpg" width="700"/>
+  <img src="
+https://wallpapers.com/images/hd/cyberpunk-pixel-art-0wsff2qqmw168u7t.jpg" width="700"/>
 </div>
-
 
 
 <h2 align="center">💡 Com foco em desenvolvimento FullStack. Atualmente, venho me dedicando ao conhecimento de tecnologias emergentes como Inteligência Artificial e Computação em Nuvem. 
