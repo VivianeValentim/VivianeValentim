@@ -27,6 +27,6 @@
 
 ### 📊 Estatísticas do GitHub  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivianeValentim&show_icons=true&theme=dracula" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VivianeValentim&show_icons=true&theme=dracula" height="300px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeValentim&layout=compact&theme=dracula" height="150px" />
 </div>
