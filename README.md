@@ -2,7 +2,7 @@
   <img src="https://t3.ftcdn.net/jpg/09/15/49/22/360_F_915492249_MqxAcgdGVq5eUBSb8RHmwwXiO9jDpqYO.jpg" width="700" height="300"/>
 </div>
 
-<p align="center" <font size="25px">💡 Movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças frequentes que naturalmente me levam a aprender cada vez mais.
+<p align="center" <style="font-size:25px">💡 Movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças frequentes que naturalmente me levam a aprender cada vez mais.
 </p>
 
 ---
