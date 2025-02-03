@@ -2,6 +2,9 @@
   <img src="https://cdna.artstation.com/p/assets/images/images/041/883/020/large/tome-costa-thatsky-matte1.jpg?1632963392" width="700"/>
 </div>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/9e/47/fe/9e47fefa5a687335cf906882cecfe779.gif" width="700"/>
+</div>
 
 <h2 align="center">💡 Com foco em desenvolvimento FullStack. Atualmente, venho me dedicando ao conhecimento de tecnologias emergentes como Inteligência Artificial e Computação em Nuvem. 
 Sou movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças que naturalmente me levam a aprender cada vez mais.
