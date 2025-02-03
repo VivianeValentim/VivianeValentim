@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://cdna.artstation.com/p/assets/images/images/041/883/020/large/tome-costa-thatsky-matte1.jpg?1632963392" width="700"/>
-</div>
-
-<div align="center">
   <img src="https://t3.ftcdn.net/jpg/09/15/49/22/360_F_915492249_MqxAcgdGVq5eUBSb8RHmwwXiO9jDpqYO.jpg" width="700"/>
 </div>
 
