@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/vetores-premium/ilustracao-em-vetor-de-banner-de-boas-vindas-de-tema-de-8-bits-de-pixels_671488-26.jpg" width="600"/>
+  <img src="https://img.freepik.com/vetores-premium/ilustracao-em-vetor-de-banner-de-boas-vindas-de-tema-de-8-bits-de-pixels_671488-26.jpg" width="700"/>
 </div>
 
 
