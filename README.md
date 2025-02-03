@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/9e/47/fe/9e47fefa5a687335cf906882cecfe779.gif" width="700"/>
+  <img src="https://t3.ftcdn.net/jpg/09/15/49/22/360_F_915492249_MqxAcgdGVq5eUBSb8RHmwwXiO9jDpqYO.jpg" width="700"/>
 </div>
 
 <h2 align="center">💡 Com foco em desenvolvimento FullStack. Atualmente, venho me dedicando ao conhecimento de tecnologias emergentes como Inteligência Artificial e Computação em Nuvem. 
