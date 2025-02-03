@@ -13,3 +13,20 @@
 ![Estatística do GitHub](https://github-redme-stats.vercel.app/api?username=VivianeValentim&show_icons=true&theme=dracula)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeValentim&layout=compact&theme=dracula)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VivianeValentim&theme=dracula)
+
+## 🚀 Tecnologias e Ferramentas  
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" height="50"/>
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VivianeValentim&show_icons=true&theme=dracula" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeValentim&layout=compact&theme=dracula" height="150px" />
+</div>
