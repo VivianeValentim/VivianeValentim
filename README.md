@@ -1,6 +1,6 @@
 <div align="center">
   <img src="![image](https://github.com/user-attachments/assets/13871aa9-f284-4446-a67a-0f098c870151)
-" alt="kawaii-cat-cheerful-dance">
+">
 </div>
 
 
