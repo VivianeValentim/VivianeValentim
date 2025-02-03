@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="
-https://wallpapers.com/images/hd/cyberpunk-pixel-art-0wsff2qqmw168u7t.jpg" width="700"/>
+  <img src="https://wallpapers.com/images/hd/cyberpunk-pixel-art-0wsff2qqmw168u7t.jpg" width="700"/>
 </div>
 
 
