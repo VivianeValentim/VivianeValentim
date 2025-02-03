@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://pa1.aminoapps.com/6767/a1085659e2e6ceb416caa9f5297d33cb4921a4eb_hq.gif" alt="kawaii-cat-cheerful-dance">
+  <img src="![image](https://github.com/user-attachments/assets/13871aa9-f284-4446-a67a-0f098c870151)
+" alt="kawaii-cat-cheerful-dance">
 </div>
 
 
