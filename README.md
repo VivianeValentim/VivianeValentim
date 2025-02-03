@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.redd.it/to2p9tn18vt61.png" width="700"/>
+  <img src="https://cdna.artstation.com/p/assets/images/images/041/883/020/large/tome-costa-thatsky-matte1.jpg?1632963392" width="700"/>
 </div>
 
 
