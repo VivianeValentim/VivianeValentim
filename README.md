@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/13871aa9-f284-4446-a67a-0f098c870151)
-">
+  <img src="https://img.freepik.com/vetores-premium/ilustracao-em-vetor-de-banner-de-boas-vindas-de-tema-de-8-bits-de-pixels_671488-26.jpg" width="600"/>
 </div>
 
 
-<h3 align="center">💡 Com foco em desenvolvimento FullStack. Atualmente, venho me dedicando ao conhecimento de tecnologias emergentes como Inteligência Artificial e Computação em Nuvem. 
+
+<h2 align="center">💡 Com foco em desenvolvimento FullStack. Atualmente, venho me dedicando ao conhecimento de tecnologias emergentes como Inteligência Artificial e Computação em Nuvem. 
 Sou movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças que naturalmente me levam a aprender cada vez mais.
-</h3>
+</h2>
 
 ---
 
