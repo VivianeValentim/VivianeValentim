@@ -4,13 +4,6 @@
 
 <h2 align="center">💡 Movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças frequentes que naturalmente me levam a aprender cada vez mais.
 </h2>
-
----
- 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VivianeValentim&show_icons=true&theme=dracula" /> <img width="2000em" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeValentim&layout=compact&theme=dracula"/>
-</div>
-
 ---
 
 ## 🔥+  Linguagens de Programação e Ferramentas
