@@ -5,6 +5,8 @@
 <h2 align="center">💡 Movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças frequentes que naturalmente me levam a aprender cada vez mais.
 </h2>
 
+---
+
 <h1 align="center"> ⚙️ Linguagens de Programação e Ferramentas
 <h1>
   <div align="center">
