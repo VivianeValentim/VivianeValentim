@@ -4,10 +4,8 @@
 
 <h2 align="center">💡 Movida a curiosidade e desejo por aprender, adentrei a área Tech admirando as inúmeras possibilidades e suas mudanças frequentes que naturalmente me levam a aprender cada vez mais.
 </h2>
----
 
-## 🔥+  Linguagens de Programação e Ferramentas
-
+## ⚙️+  Linguagens de Programação e Ferramentas
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css-original.svg" width="50" height="50"/>
